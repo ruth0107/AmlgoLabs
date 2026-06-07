@@ -1,8 +1,9 @@
-# 🔍 PolicyAI — RAG Chatbot
+# 🔍 PolicyAI — RAG Chatbot 
 
 > **Amlgo Labs · Junior AI Engineer Assignment**  
 > A production-grade Retrieval-Augmented Generation (RAG) chatbot that answers questions from policy and legal documents using a locally-hosted LLM with real-time streaming responses.
 
+> Demo Link - https://drive.google.com/file/d/1BJxgYIB6r-KCL7KM5xbCW2qPb2chJBQL/view?usp=sharing
 ---
 
 ## 🏗️ Architecture
