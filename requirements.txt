@@ -1,0 +1,32 @@
+# RAG Chatbot — Amlgo Labs Assignment
+# Python 3.10+
+
+# Core LLM & RAG
+ollama==0.3.3
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-chroma==0.1.4
+
+# Embeddings
+sentence-transformers==5.5.1
+
+# Vector Database  (0.5.3 is required — langchain-chroma 0.1.4 excludes 0.5.4 & 0.5.5)
+chromadb==0.5.3
+
+# PDF Processing
+pymupdf==1.24.9
+
+# Streamlit UI
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
+numpy==1.26.4
+pandas==2.2.2
+
+# Notebook support
+jupyter==1.0.0
+ipykernel==6.29.5
+matplotlib==3.9.2
+seaborn==0.13.2

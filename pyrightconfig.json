@@ -1,0 +1,17 @@
+{
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "extraPaths": [
+    "C:/Users/ruthvik/AppData/Local/Programs/Python/Python311/Lib/site-packages",
+    "C:/Users/ruthvik/AppData/Roaming/Python/Python311/site-packages",
+    "C:/Users/ruthvik/AppData/Local/Programs/Python/Python311/Lib",
+    "."
+  ],
+  "typeCheckingMode": "off",
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "reportGeneralTypeIssues": "none",
+  "reportAttributeAccessIssue": "none",
+  "useLibraryCodeForTypes": true,
+  "stubPath": "C:/Users/ruthvik/AppData/Local/Programs/Python/Python311/Lib/site-packages"
+}
