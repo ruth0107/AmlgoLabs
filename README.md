@@ -258,7 +258,7 @@ Run `python src/evaluation/run_eval.py` to evaluate the pipeline against the aut
 | **Context Recall** | `1.00` | How well retrieved context covers the ground truth. |
 | **Groundedness** | `1.00` | Faithfulness of the generated answer to the retrieved context. |
 | **Context Precision** | `0.52` | Proportion of retrieved chunks that are relevant. |
-| **Hallucination Rate** | `0.00` | Rate of fabricated facts not present in context. |
+| **Hallucination Rate** | `1.30` | Rate of fabricated facts not present in context. |
 
 *(Detailed analysis is available in `data/rag_evaluation_report.md`)*
 
